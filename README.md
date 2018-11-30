@@ -16,9 +16,9 @@ Input to the program will be:
 
 See below for an example input and the respective seating arrangement based on the input.
 
-A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]] (Please see the attached PDF attachment No.1 - 'Seating_2D_array.pdf')
+A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]] (Please see the attached PDF document - 'Seating_2D_array.pdf')
 
-If there were 30 passengers from then the seating output will be as in the attachment No.2, 'Seating_Result.pdf'
+If there were 30 passengers from then the seating output will be as in the attachment 'Seating_Result.pdf'
 
 Below are the points we are looking at:
 
