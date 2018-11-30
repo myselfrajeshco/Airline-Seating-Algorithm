@@ -20,7 +20,7 @@ A 2D array that represents the rows and columns [[3,2], [4,3], [2,3], [3,4]] (Pl
 
 If there were 30 passengers from then the seating output will be as in the attachment 'Seating_Result.pdf'
 
-Below are the points we are looking at:
+Below are the points to be noted:
 
 1. The Logic / Data structure / Algorithm used to successfully complete the programming challenge
 2. The elegance of the code, modularity and readability
